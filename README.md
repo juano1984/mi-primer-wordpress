@@ -1,2 +1,2 @@
 # mi-primer-wordpress
-Wordpress
+Mi Wordpress
